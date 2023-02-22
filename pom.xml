@@ -44,6 +44,7 @@
         <serverUrl>http://soaprj21app1.bbds.balfourbeatty.com:7006</serverUrl>
         <user>weblogic</user>
         <password>S9_lyasvjmsg</password>
+        <folder>HRPayroll</folder>
         <overwrite>true</overwrite>
         <forceDefault>true</forceDefault>
         <regenerateRulebase>false</regenerateRulebase>
